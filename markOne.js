@@ -19,7 +19,7 @@ var questions = [{
     question: chalk.magenta("<3> Which Hero I like the most?\n1. Amitabh Bachan\n2. Jim Carrey\n"),
     answer: "2",
 },{
-    question: chalk.yellow("<4> What is the color of the cape of Martian Manhunter?\n1. Blue\n2. Black"),
+    question: chalk.yellow("<4> What is the color of Martian Manhunter's Cape?\n1. Blue\n2. Black"),
     answer: "1",
 },{
     question: chalk.green("<5> Looney Tunes loves to eat what?\n 1. Carrot\n2. Honey"),
