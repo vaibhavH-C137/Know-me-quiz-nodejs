@@ -62,7 +62,7 @@ var highScore = [{
 }]
 console.log("The high scores are like this")
 for(var a=0; a<highScore.length; a++){
-    console.log((a+1)+". "+highScore[a].name+"-------->"+highScore[a].score);
+    console.log((a+1)+". "+highScore[a].name+"  --->  "+highScore[a].score);
 }
 console.log("just send a ss of ur score & i'll add you on the list,\n Thanks for playing!")
 
