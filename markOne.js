@@ -25,7 +25,7 @@ var questions = [{
     question: chalk.green("<5> Looney Tunes loves to eat what?\n 1. Carrot\n2. Honey"),
     answer: "1",
 },{
-    question: chalk.blueBright("BONUS QUESTION:\n<6> Which human being has claimed that he can turn invisible?('you can't see him')"),
+    question: chalk.blueBright("BONUS QUESTION:\n<6> Which human being has claimed that he can turn invisible?\n('you can't see him')\n"),
     answer: "John Cena"
 }]
 
